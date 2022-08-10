@@ -5629,7 +5629,7 @@ age-container #owl-main .owl-next {
 .body-content .terms-conditions-page .terms-conditions span,
 .body-content .faq-page .title-tag,
 .body-content .track-order-page span {
-  display: block;
+  /* display: block; */
   font-style: normal;
   font-size: 14px;
   color: #666;
